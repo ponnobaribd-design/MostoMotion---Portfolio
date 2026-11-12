@@ -1,0 +1,9 @@
+{
+  "name": "MostoMotion Portfolio",
+  "description": "A high-performance, personalized portfolio for Md. Mostofa Kamal, a motion graphics and video editing professional. Features interactive services, portfolio gallery, and an AI-powered creative assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
